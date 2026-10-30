@@ -1,8 +1,8 @@
 # Open source Eigent alternative deploy template
 
-Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to Eigent. Clone it, read the two config files, and bring the open-source AI Operating System up on a machine you control.
+Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to Eigent. Clone it, read the two config files, and bring the open-source CompanyOS up on a machine you control.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [Eigent](https://github.com/eigent-ai/eigent) is an open-source Cowork desktop. Its own repository calls it "the open source Cowork desktop application" and ships it as a local-first desktop app for macOS, Windows and Linux, built on CAMEL-AI's multi-agent framework. Eigent keeps agents on each person's machine; Kortix runs the same agents on isolated cloud computers a whole company shares, scopes and governs from one repo.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [Eigent](https://github.com/eigent-ai/eigent) is an open-source Cowork desktop. Its own repository calls it "the open source Cowork desktop application" and ships it as a local-first desktop app for macOS, Windows and Linux, built on CAMEL-AI's multi-agent framework. Eigent keeps agents on each person's machine; Kortix runs the same agents on isolated cloud computers a whole company shares, scopes and governs from one repo.
 
 ## What is in this repository
 
@@ -38,7 +38,7 @@ Each session gets its own isolated sandbox and its own branch. The agent reaches
 
 ## Open source Eigent alternatives
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the desktop Cowork app and with two other open-source projects you can host.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the desktop Cowork app and with two other open-source projects you can host.
 
 | Criterion | Kortix | Eigent | OpenWork | Claude Cowork |
 | --- | --- | --- | --- | --- |
